@@ -20,10 +20,10 @@ Siedząc teraz na zajęciach zastanawiam się co muszę kupić dzisiaj aby przyg
 - ogórki
 
 | Produkt   | Ilość | Cena   |   
-|-----------|-------|--------|---
-| ziemniaki | 1kg   | 2,50zł |  
+|-----------|-------|--------|
+| ziemniaki | 1kg   | 2,50zł |
 | kurczak   | 0,5kg | 8zł    |   
-| ogórki    | 1szt  | 2zł    |   
+| ogórki    | 1szt  | 2zł    |  
 
 Kiedy jestem zmęczona to zamawiam zakupy ze strony:
 
